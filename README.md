@@ -18,24 +18,24 @@ Search Method: 1) String Match 2.)Regular Expressions 3.)Indexed
 
 #### Output:
 
-File2.txt - X matches
-File1.txt - X matches
-File3.txt - X matches
-Elapsed time: 40ms
+1. File2.txt - X matches
+2. File1.txt - X matches
+3. File3.txt - X matches
+4. Elapsed time: 40ms
 
 #### System Requirements:
-JDK Installation
-Make sure to have the gradle plugin installed in Intellij
+1. JDK Installation
+2. Make sure to have the gradle plugin installed in Intellij
 
 #### How to run:
-Git clone 	https://github.com/vsantoshk/Target_case_study_Document_search.git
-Run the Application.
+1. Git clone 	https://github.com/vsantoshk/Target_case_study_Document_search.git
+2. Run the Application.
 
 
 #### Conceptualization:
-1.)The logic of the code is to search the files with three different methods and also elapsed time for each method.
-2.)This code is written using java concepts of Inheritance and HashMap.
-3.)Run the performance test for 2M searches with random search terms
-   Results: Indexed method is very fast in searching the file consists of ~2M words/searches and elapsed time for this is 0ms.
+1. The logic of the code is to search the files with three different methods and also elapsed time for each method.
+2. This code is written using java concepts of Inheritance and HashMap.
+3. Run the performance test for 2M searches with random search terms
+   1. Results: Indexed method is very fast in searching the file consists of ~2M words/searches and elapsed time for this is 0ms.
 
 
