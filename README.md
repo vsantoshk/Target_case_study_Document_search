@@ -1,3 +1,6 @@
+Document Search
+
+Problem Statement:
 The goal of this exercise is to create a working program to search a set of documents for the given search term or phrase (single token), and return results in order of relevance. 
 Relevancy is defined as number of times the exact term or phrase appears in the document. 
 Create three methods for searching the documents: 
@@ -19,9 +22,12 @@ File3.txt - X matches
 Elapsed time: 40ms
 
 System Requirements:
-Git Clone <URL>
 JDK Installation
 Make sure to have the gradle plugin installed in Intellij
+
+How to run:
+Git clone 	https://github.com/vsantoshk/Target_case_study_Document_search.git
+
 
 Conceptualization:
 1.)The logic of the code is to search the files with three different methods and also elapsed time for each method.
